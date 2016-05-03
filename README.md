@@ -1,2 +1,0 @@
-# GoTiles
-GoTiles
